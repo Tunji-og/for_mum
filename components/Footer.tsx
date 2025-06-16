@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
         With All Our Love,
       </p>
       <p className="text-xl text-purple-800 font-bold mt-1">
-        Your Loving Children
+        Your Loving Children, Especially Tunji!!!!!!
       </p>
       <p className="text-sm text-slate-500 mt-4">
         &copy; {currentYear} - Happy Father's day Mummy
