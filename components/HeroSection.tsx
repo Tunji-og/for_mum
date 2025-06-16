@@ -6,7 +6,7 @@ const HeroSection: React.FC = () => {
     <section className="relative min-h-[80vh] md:min-h-screen flex items-center justify-center text-white py-20 px-4 overflow-hidden">
       <div className="absolute inset-0 w-full h-full">
         <img 
-          src="Images/mum_hero.png" // Replace with your actual hero image file
+          src="/Images/mum_hero.png" // Replace with your actual hero image file
           alt="Our wonderful Mum looking radiant with her daughters" 
           className="w-full h-full object-cover filter brightness-50" 
         />

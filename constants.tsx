@@ -28,7 +28,7 @@ export const TRIBUTE_DATA: TributeItem[] = [
     icon: <ShieldCheckIcon className="w-12 h-12 text-purple-600" />,
     title: 'Our Unwavering Strength',
     description: "Through every challenge, you've been our fortress and our inspiration. Your resilience has taught us how to face life with courage and grace.",
-    imageSrc: 'Images/family_60th_birthday_celebration.png', // Replace with your actual image file
+    imageSrc: '/Images/family_60th_birthday_celebration.png', // Replace with your actual image file
     imageAlt: "The family celebrating Mum's 60th birthday, a testament to enduring strength and unity",
   },
   {
@@ -36,7 +36,7 @@ export const TRIBUTE_DATA: TributeItem[] = [
     icon: <LightBulbIcon className="w-12 h-12 text-purple-600" />,
     title: 'Our Guiding Light',
     description: "Your wisdom has illuminated our paths, and your advice has always been our most trusted compass. Thank you for showing us the way.",
-    imageSrc: 'Images/mum_outdoor.png', // Replace with your actual image file
+    imageSrc: '/Images/mum_outdoor.png', // Replace with your actual image file
     imageAlt: "Mum with her daughters outdoors, a guiding presence in their lives",
   },
   {
@@ -44,7 +44,7 @@ export const TRIBUTE_DATA: TributeItem[] = [
     icon: <HeartIcon className="w-12 h-12 text-purple-600" />,
     title: 'Our Endless Love',
     description: "Your love is the heartbeat of our family – a constant, unconditional source of warmth and comfort. It's the greatest gift you've given us.",
-    imageSrc: 'Images/mum_kissed_on_cheek.png', // Replace with your actual image file
+    imageSrc: '/Images/mum_kissed_on_cheek.png', // Replace with your actual image file
     imageAlt: "A tender moment showing a daughter's love for Mum as she kisses her cheek",
   },
 ];
@@ -52,37 +52,37 @@ export const TRIBUTE_DATA: TributeItem[] = [
 export const GALLERY_ITEMS: GalleryImageItem[] = [
     { 
       id: 'mem1', 
-      src: 'Images/happy_family_selfie_indoors.png', // Replace with your actual image file
+      src: '/Images/happy_family_selfie_indoors.png', // Replace with your actual image file
       alt: 'A happy family selfie with Mum and her children indoors', 
       caption: '' 
     },
     { 
       id: 'mem2', 
-      src: 'Images/mum_laughing_with_daughters_studio.png', // Replace with your actual image file
+      src: '/Images/mum_laughing_with_daughters_studio.png', // Replace with your actual image file
       alt: 'Mum sharing a joyful laugh with her daughters in a studio setting', 
       caption: '' 
     },
     { 
       id: 'mem3', 
-      src: 'Images/family_at_airport_adventure.png', // Replace with your actual image file
+      src: '/Images/family_at_airport_adventure.png', // Replace with your actual image file
       alt: 'The family at the airport with luggage, ready for an adventure', 
       caption: '' 
     },
     { 
       id: 'mem4', 
-      src: 'Images/mum_son_daughter_indoors_gathering.png', // Replace with your actual image file
+      src: '/Images/mum_son_daughter_indoors_gathering.png', // Replace with your actual image file
       alt: 'Mum with her son and daughter, a special family gathering indoors', 
       caption:  ''
     },
     { 
       id: 'mem5', 
-      src: 'Images/family_kilimanjaro_restaurant.png', // Replace with your actual image file
+      src: '/Images/family_kilimanjaro_restaurant.png', // Replace with your actual image file
       alt: 'A fun family outing at the Kilimanjaro restaurant', 
       caption: '' 
     },
     { 
       id: 'mem6', 
-      src: 'Images/mum_family_light_colors.png', // Replace with your actual image file
+      src: '/Images/mum_family_light_colors.png', // Replace with your actual image file
       alt: 'Mum surrounded by her loving family, dressed in light colors', 
       caption: '' 
     },

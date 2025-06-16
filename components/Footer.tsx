@@ -12,7 +12,7 @@ const Footer: React.FC = () => {
         Your Loving Children
       </p>
       <p className="text-sm text-slate-500 mt-4">
-        &copy; {currentYear} - A Tribute Crafted with Love
+        &copy; {currentYear} - Happy Father's day Mummy
       </p>
       
     </footer>
